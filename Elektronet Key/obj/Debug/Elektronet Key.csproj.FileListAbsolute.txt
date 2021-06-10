@@ -1,0 +1,20 @@
+C:\Users\Ahmet\source\repos\ElektronetKantar\Elektronet Key\bin\Debug\Elektronet Key.exe.config
+C:\Users\Ahmet\source\repos\ElektronetKantar\Elektronet Key\bin\Debug\Elektronet Key.exe
+C:\Users\Ahmet\source\repos\ElektronetKantar\Elektronet Key\bin\Debug\Elektronet Key.pdb
+C:\Users\Ahmet\source\repos\ElektronetKantar\Elektronet Key\obj\Debug\Elektronet_Key.Form1.resources
+C:\Users\Ahmet\source\repos\ElektronetKantar\Elektronet Key\obj\Debug\Elektronet_Key.Properties.Resources.resources
+C:\Users\Ahmet\source\repos\ElektronetKantar\Elektronet Key\obj\Debug\Elektronet Key.csproj.GenerateResource.cache
+C:\Users\Ahmet\source\repos\ElektronetKantar\Elektronet Key\obj\Debug\Elektronet Key.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\source\repos\ElektronetKantar\Elektronet Key\obj\Debug\Elektronet Key.exe
+C:\Users\Ahmet\source\repos\ElektronetKantar\Elektronet Key\obj\Debug\Elektronet Key.pdb
+D:\Elektronet Çalışma\ElektronetKantar\Elektronet Key\bin\Debug\Elektronet Key.exe.config
+D:\Elektronet Çalışma\ElektronetKantar\Elektronet Key\bin\Debug\Elektronet Key.exe
+D:\Elektronet Çalışma\ElektronetKantar\Elektronet Key\obj\Debug\Elektronet Key.csprojAssemblyReference.cache
+D:\Elektronet Çalışma\ElektronetKantar\Elektronet Key\obj\Debug\Elektronet_Key.Form1.resources
+D:\Elektronet Çalışma\ElektronetKantar\Elektronet Key\obj\Debug\Elektronet_Key.Properties.Resources.resources
+D:\Elektronet Çalışma\ElektronetKantar\Elektronet Key\obj\Debug\Elektronet Key.csproj.GenerateResource.cache
+D:\Elektronet Çalışma\ElektronetKantar\Elektronet Key\obj\Debug\Elektronet Key.csproj.CoreCompileInputs.cache
+D:\Elektronet Çalışma\ElektronetKantar\Elektronet Key\obj\Debug\Elektronet Key.exe
+D:\Elektronet Çalışma\ElektronetKantar\Elektronet Key\obj\Debug\Elektronet Key.pdb
+D:\Elektronet Çalışma\ElektronetKantar\Elektronet Key\bin\Debug\Elektronet Key.pdb
+D:\Elektronet Çalışma\ElektronetKantar\Elektronet Key\obj\Debug\Elektronet Key.sourcelink.json

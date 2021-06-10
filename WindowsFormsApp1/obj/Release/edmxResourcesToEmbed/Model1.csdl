@@ -1,0 +1,234 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="KantarDbModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="WindowsFormsApp1Entities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Arac" EntityType="KantarDbModel.Arac" />
+    <EntitySet Name="CariUnvan_Firma" EntityType="KantarDbModel.CariUnvan_Firma" />
+    <EntitySet Name="Malzeme" EntityType="KantarDbModel.Malzeme" />
+    <EntitySet Name="SevkYeri" EntityType="KantarDbModel.SevkYeri" />
+    <EntitySet Name="Sofor" EntityType="KantarDbModel.Sofor" />
+    <EntitySet Name="sysdiagrams" EntityType="KantarDbModel.sysdiagrams" />
+    <EntitySet Name="Tartim" EntityType="KantarDbModel.Tartim" />
+    <EntitySet Name="Yetkili" EntityType="KantarDbModel.Yetkili" />
+    <AssociationSet Name="FK_Tartim_Arac" Association="KantarDbModel.FK_Tartim_Arac">
+      <End Role="Arac" EntitySet="Arac" />
+      <End Role="Tartim" EntitySet="Tartim" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Tartim_CariUnvan_Firma" Association="KantarDbModel.FK_Tartim_CariUnvan_Firma">
+      <End Role="CariUnvan_Firma" EntitySet="CariUnvan_Firma" />
+      <End Role="Tartim" EntitySet="Tartim" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Tartim_CariUnvan_Firma3" Association="KantarDbModel.FK_Tartim_CariUnvan_Firma3">
+      <End Role="CariUnvan_Firma" EntitySet="CariUnvan_Firma" />
+      <End Role="Tartim" EntitySet="Tartim" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Tartim_Malzeme" Association="KantarDbModel.FK_Tartim_Malzeme">
+      <End Role="Malzeme" EntitySet="Malzeme" />
+      <End Role="Tartim" EntitySet="Tartim" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Tartim_SevkYeri" Association="KantarDbModel.FK_Tartim_SevkYeri">
+      <End Role="SevkYeri" EntitySet="SevkYeri" />
+      <End Role="Tartim" EntitySet="Tartim" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Tartim_Sofor" Association="KantarDbModel.FK_Tartim_Sofor">
+      <End Role="Sofor" EntitySet="Sofor" />
+      <End Role="Tartim" EntitySet="Tartim" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Tartim_Yetkili" Association="KantarDbModel.FK_Tartim_Yetkili">
+      <End Role="Yetkili" EntitySet="Yetkili" />
+      <End Role="Tartim" EntitySet="Tartim" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Arac">
+    <Key>
+      <PropertyRef Name="AracId" />
+    </Key>
+    <Property Name="AracId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="AracPlaka" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="AracDaraAgirlik" Type="Double" />
+    <Property Name="AracTip" Type="Boolean" />
+    <Property Name="AracMarkaModel" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Arsiv" Type="Boolean" />
+    <NavigationProperty Name="Tartim" Relationship="KantarDbModel.FK_Tartim_Arac" FromRole="Arac" ToRole="Tartim" />
+  </EntityType>
+  <EntityType Name="CariUnvan_Firma">
+    <Key>
+      <PropertyRef Name="CariUnvan_FirmaId" />
+    </Key>
+    <Property Name="CariUnvan_FirmaId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CariUnvan_FirmaAd" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="CariUnvan_FirmaTelefon" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="CariUnvan_FirmaAdres" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="CariUnvan_FirmaEmail" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="CariUnvan_FirmaVergiDairesi" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="CariUnvan_FirmaVergiNo" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="CariUnvan_FirmaMarsisNo" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="CariUnvan_SahisAdSoyad" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="CariUnvan_FirmaTC" Type="String" MaxLength="11" FixedLength="false" Unicode="true" />
+    <Property Name="CariUnvan_FirmaGonderici" Type="Boolean" />
+    <Property Name="CariUnvan_FirmaTip" Type="Int32" />
+    <Property Name="Arsiv" Type="Boolean" />
+    <NavigationProperty Name="Tartim" Relationship="KantarDbModel.FK_Tartim_CariUnvan_Firma" FromRole="CariUnvan_Firma" ToRole="Tartim" />
+    <NavigationProperty Name="Tartim1" Relationship="KantarDbModel.FK_Tartim_CariUnvan_Firma3" FromRole="CariUnvan_Firma" ToRole="Tartim" />
+  </EntityType>
+  <EntityType Name="Malzeme">
+    <Key>
+      <PropertyRef Name="MalzemeId" />
+    </Key>
+    <Property Name="MalzemeId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="MalzemeAd" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="MalzemeAciklama" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="MalzemeBirimFiyat" Type="Double" />
+    <Property Name="Arsiv" Type="Boolean" />
+    <NavigationProperty Name="Tartim" Relationship="KantarDbModel.FK_Tartim_Malzeme" FromRole="Malzeme" ToRole="Tartim" />
+  </EntityType>
+  <EntityType Name="SevkYeri">
+    <Key>
+      <PropertyRef Name="SevkYeriId" />
+    </Key>
+    <Property Name="SevkYeriId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="SevkYeriAdres" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="SevkYeriAciklama" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Arsiv" Type="Boolean" />
+    <NavigationProperty Name="Tartim" Relationship="KantarDbModel.FK_Tartim_SevkYeri" FromRole="SevkYeri" ToRole="Tartim" />
+  </EntityType>
+  <EntityType Name="Sofor">
+    <Key>
+      <PropertyRef Name="SoforId" />
+    </Key>
+    <Property Name="SoforId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="SoforAdSoyad" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="SoforTC" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="SoforTelefon" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Arsiv" Type="Boolean" />
+    <NavigationProperty Name="Tartim" Relationship="KantarDbModel.FK_Tartim_Sofor" FromRole="Sofor" ToRole="Tartim" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" Nullable="false" MaxLength="128" FixedLength="false" Unicode="true" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="Tartim">
+    <Key>
+      <PropertyRef Name="TartimId" />
+    </Key>
+    <Property Name="TartimId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="AracId" Type="Int32" />
+    <Property Name="IslemSirasi" Type="Int32" />
+    <Property Name="OlcumTarihi" Type="DateTime" Precision="3" />
+    <Property Name="CariUnvan_FirmaAliciId" Type="Int32" />
+    <Property Name="MalzemeId" Type="Int32" />
+    <Property Name="SevkYeriId" Type="Int32" />
+    <Property Name="SoforId" Type="Int32" />
+    <Property Name="NetAgirlik" Type="Double" />
+    <Property Name="Ucret" Type="Double" />
+    <Property Name="CariUnvan_FirmaGondericiId" Type="Int32" />
+    <Property Name="YetkiliId" Type="Int32" />
+    <NavigationProperty Name="Arac" Relationship="KantarDbModel.FK_Tartim_Arac" FromRole="Tartim" ToRole="Arac" />
+    <NavigationProperty Name="CariUnvan_Firma" Relationship="KantarDbModel.FK_Tartim_CariUnvan_Firma" FromRole="Tartim" ToRole="CariUnvan_Firma" />
+    <NavigationProperty Name="CariUnvan_Firma1" Relationship="KantarDbModel.FK_Tartim_CariUnvan_Firma3" FromRole="Tartim" ToRole="CariUnvan_Firma" />
+    <NavigationProperty Name="Malzeme" Relationship="KantarDbModel.FK_Tartim_Malzeme" FromRole="Tartim" ToRole="Malzeme" />
+    <NavigationProperty Name="SevkYeri" Relationship="KantarDbModel.FK_Tartim_SevkYeri" FromRole="Tartim" ToRole="SevkYeri" />
+    <NavigationProperty Name="Sofor" Relationship="KantarDbModel.FK_Tartim_Sofor" FromRole="Tartim" ToRole="Sofor" />
+    <NavigationProperty Name="Yetkili" Relationship="KantarDbModel.FK_Tartim_Yetkili" FromRole="Tartim" ToRole="Yetkili" />
+  </EntityType>
+  <EntityType Name="Yetkili">
+    <Key>
+      <PropertyRef Name="YetkiliId" />
+    </Key>
+    <Property Name="YetkiliId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="YetkiliKullaniciAd" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="YetkiliSifre" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Admin" Type="Boolean" />
+    <Property Name="Arsiv" Type="Boolean" />
+    <NavigationProperty Name="Tartim" Relationship="KantarDbModel.FK_Tartim_Yetkili" FromRole="Yetkili" ToRole="Tartim" />
+  </EntityType>
+  <Association Name="FK_Tartim_Arac">
+    <End Type="KantarDbModel.Arac" Role="Arac" Multiplicity="0..1" />
+    <End Type="KantarDbModel.Tartim" Role="Tartim" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Arac">
+        <PropertyRef Name="AracId" />
+      </Principal>
+      <Dependent Role="Tartim">
+        <PropertyRef Name="AracId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Tartim_CariUnvan_Firma">
+    <End Type="KantarDbModel.CariUnvan_Firma" Role="CariUnvan_Firma" Multiplicity="0..1" />
+    <End Type="KantarDbModel.Tartim" Role="Tartim" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CariUnvan_Firma">
+        <PropertyRef Name="CariUnvan_FirmaId" />
+      </Principal>
+      <Dependent Role="Tartim">
+        <PropertyRef Name="CariUnvan_FirmaAliciId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Tartim_CariUnvan_Firma3">
+    <End Type="KantarDbModel.CariUnvan_Firma" Role="CariUnvan_Firma" Multiplicity="0..1" />
+    <End Type="KantarDbModel.Tartim" Role="Tartim" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CariUnvan_Firma">
+        <PropertyRef Name="CariUnvan_FirmaId" />
+      </Principal>
+      <Dependent Role="Tartim">
+        <PropertyRef Name="CariUnvan_FirmaGondericiId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Tartim_Malzeme">
+    <End Type="KantarDbModel.Malzeme" Role="Malzeme" Multiplicity="0..1" />
+    <End Type="KantarDbModel.Tartim" Role="Tartim" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Malzeme">
+        <PropertyRef Name="MalzemeId" />
+      </Principal>
+      <Dependent Role="Tartim">
+        <PropertyRef Name="MalzemeId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Tartim_SevkYeri">
+    <End Type="KantarDbModel.SevkYeri" Role="SevkYeri" Multiplicity="0..1" />
+    <End Type="KantarDbModel.Tartim" Role="Tartim" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SevkYeri">
+        <PropertyRef Name="SevkYeriId" />
+      </Principal>
+      <Dependent Role="Tartim">
+        <PropertyRef Name="SevkYeriId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Tartim_Sofor">
+    <End Type="KantarDbModel.Sofor" Role="Sofor" Multiplicity="0..1" />
+    <End Type="KantarDbModel.Tartim" Role="Tartim" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Sofor">
+        <PropertyRef Name="SoforId" />
+      </Principal>
+      <Dependent Role="Tartim">
+        <PropertyRef Name="SoforId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Tartim_Yetkili">
+    <End Type="KantarDbModel.Yetkili" Role="Yetkili" Multiplicity="0..1" />
+    <End Type="KantarDbModel.Tartim" Role="Tartim" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Yetkili">
+        <PropertyRef Name="YetkiliId" />
+      </Principal>
+      <Dependent Role="Tartim">
+        <PropertyRef Name="YetkiliId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

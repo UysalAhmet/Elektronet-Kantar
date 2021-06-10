@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="KantarDbModelStoreContainer" CdmEntityContainer="WindowsFormsApp1Entities">
+    <EntitySetMapping Name="Arac">
+      <EntityTypeMapping TypeName="KantarDbModel.Arac">
+        <MappingFragment StoreEntitySet="Arac">
+          <ScalarProperty Name="Arsiv" ColumnName="Arsiv" />
+          <ScalarProperty Name="AracMarkaModel" ColumnName="AracMarkaModel" />
+          <ScalarProperty Name="AracTip" ColumnName="AracTip" />
+          <ScalarProperty Name="AracDaraAgirlik" ColumnName="AracDaraAgirlik" />
+          <ScalarProperty Name="AracPlaka" ColumnName="AracPlaka" />
+          <ScalarProperty Name="AracId" ColumnName="AracId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CariUnvan_Firma">
+      <EntityTypeMapping TypeName="KantarDbModel.CariUnvan_Firma">
+        <MappingFragment StoreEntitySet="CariUnvan_Firma">
+          <ScalarProperty Name="Arsiv" ColumnName="Arsiv" />
+          <ScalarProperty Name="CariUnvan_FirmaTip" ColumnName="CariUnvan_FirmaTip" />
+          <ScalarProperty Name="CariUnvan_FirmaGonderici" ColumnName="CariUnvan_FirmaGonderici" />
+          <ScalarProperty Name="CariUnvan_FirmaTC" ColumnName="CariUnvan_FirmaTC" />
+          <ScalarProperty Name="CariUnvan_SahisAdSoyad" ColumnName="CariUnvan_SahisAdSoyad" />
+          <ScalarProperty Name="CariUnvan_FirmaMarsisNo" ColumnName="CariUnvan_FirmaMarsisNo" />
+          <ScalarProperty Name="CariUnvan_FirmaVergiNo" ColumnName="CariUnvan_FirmaVergiNo" />
+          <ScalarProperty Name="CariUnvan_FirmaVergiDairesi" ColumnName="CariUnvan_FirmaVergiDairesi" />
+          <ScalarProperty Name="CariUnvan_FirmaEmail" ColumnName="CariUnvan_FirmaEmail" />
+          <ScalarProperty Name="CariUnvan_FirmaAdres" ColumnName="CariUnvan_FirmaAdres" />
+          <ScalarProperty Name="CariUnvan_FirmaTelefon" ColumnName="CariUnvan_FirmaTelefon" />
+          <ScalarProperty Name="CariUnvan_FirmaAd" ColumnName="CariUnvan_FirmaAd" />
+          <ScalarProperty Name="CariUnvan_FirmaId" ColumnName="CariUnvan_FirmaId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Malzeme">
+      <EntityTypeMapping TypeName="KantarDbModel.Malzeme">
+        <MappingFragment StoreEntitySet="Malzeme">
+          <ScalarProperty Name="Arsiv" ColumnName="Arsiv" />
+          <ScalarProperty Name="MalzemeBirimFiyat" ColumnName="MalzemeBirimFiyat" />
+          <ScalarProperty Name="MalzemeAciklama" ColumnName="MalzemeAciklama" />
+          <ScalarProperty Name="MalzemeAd" ColumnName="MalzemeAd" />
+          <ScalarProperty Name="MalzemeId" ColumnName="MalzemeId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SevkYeri">
+      <EntityTypeMapping TypeName="KantarDbModel.SevkYeri">
+        <MappingFragment StoreEntitySet="SevkYeri">
+          <ScalarProperty Name="Arsiv" ColumnName="Arsiv" />
+          <ScalarProperty Name="SevkYeriAciklama" ColumnName="SevkYeriAciklama" />
+          <ScalarProperty Name="SevkYeriAdres" ColumnName="SevkYeriAdres" />
+          <ScalarProperty Name="SevkYeriId" ColumnName="SevkYeriId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Sofor">
+      <EntityTypeMapping TypeName="KantarDbModel.Sofor">
+        <MappingFragment StoreEntitySet="Sofor">
+          <ScalarProperty Name="Arsiv" ColumnName="Arsiv" />
+          <ScalarProperty Name="SoforTelefon" ColumnName="SoforTelefon" />
+          <ScalarProperty Name="SoforTC" ColumnName="SoforTC" />
+          <ScalarProperty Name="SoforAdSoyad" ColumnName="SoforAdSoyad" />
+          <ScalarProperty Name="SoforId" ColumnName="SoforId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="KantarDbModel.sysdiagrams">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="definition" ColumnName="definition" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tartim">
+      <EntityTypeMapping TypeName="KantarDbModel.Tartim">
+        <MappingFragment StoreEntitySet="Tartim">
+          <ScalarProperty Name="YetkiliId" ColumnName="YetkiliId" />
+          <ScalarProperty Name="CariUnvan_FirmaGondericiId" ColumnName="CariUnvan_FirmaGondericiId" />
+          <ScalarProperty Name="Ucret" ColumnName="Ucret" />
+          <ScalarProperty Name="NetAgirlik" ColumnName="NetAgirlik" />
+          <ScalarProperty Name="SoforId" ColumnName="SoforId" />
+          <ScalarProperty Name="SevkYeriId" ColumnName="SevkYeriId" />
+          <ScalarProperty Name="MalzemeId" ColumnName="MalzemeId" />
+          <ScalarProperty Name="CariUnvan_FirmaAliciId" ColumnName="CariUnvan_FirmaAliciId" />
+          <ScalarProperty Name="OlcumTarihi" ColumnName="OlcumTarihi" />
+          <ScalarProperty Name="IslemSirasi" ColumnName="IslemSirasi" />
+          <ScalarProperty Name="AracId" ColumnName="AracId" />
+          <ScalarProperty Name="TartimId" ColumnName="TartimId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Yetkili">
+      <EntityTypeMapping TypeName="KantarDbModel.Yetkili">
+        <MappingFragment StoreEntitySet="Yetkili">
+          <ScalarProperty Name="Arsiv" ColumnName="Arsiv" />
+          <ScalarProperty Name="Admin" ColumnName="Admin" />
+          <ScalarProperty Name="YetkiliSifre" ColumnName="YetkiliSifre" />
+          <ScalarProperty Name="YetkiliKullaniciAd" ColumnName="YetkiliKullaniciAd" />
+          <ScalarProperty Name="YetkiliId" ColumnName="YetkiliId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

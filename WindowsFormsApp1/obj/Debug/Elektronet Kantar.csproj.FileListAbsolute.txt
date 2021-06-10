@@ -1,0 +1,490 @@
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\ESC-POS-USB-NET.dll
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.dll
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Assessment.dll
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Assessment.Types.dll
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Dmf.dll
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.Assessment.dll
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.Collector.dll
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.dll
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.HadrData.dll
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.HadrModel.dll
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.dll
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.SmoMetadataProvider.dll
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.SqlParser.dll
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.dll
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.XEvent.dll
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.dll
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.dll
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.PolicyEnum.dll
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Smo.Notebook.dll
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.dll
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.WmiEnum.dll
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\System.Drawing.Common.dll
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\System.Security.Permissions.dll
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.pdb
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.xml
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.ConnectionInfo.pdb
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.ConnectionInfo.xml
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Dmf.pdb
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Dmf.xml
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Dmf.Common.pdb
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Dmf.Common.xml
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.Assessment.pdb
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.Assessment.xml
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.Collector.pdb
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.Collector.xml
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.pdb
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.xml
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.HadrData.pdb
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.HadrData.xml
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.HadrModel.pdb
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.HadrModel.xml
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.pdb
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.xml
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.pdb
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.xml
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.SmoMetadataProvider.pdb
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.SmoMetadataProvider.xml
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.SqlParser.pdb
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.SqlParser.xml
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.pdb
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.xml
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.XEvent.pdb
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.XEvent.xml
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.pdb
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.xml
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.pdb
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.xml
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.pdb
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.xml
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.PolicyEnum.xml
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.RegSvrEnum.pdb
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.RegSvrEnum.xml
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.pdb
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.xml
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Smo.pdb
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Smo.xml
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Smo.Notebook.pdb
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Smo.Notebook.xml
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.SmoExtended.pdb
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.SmoExtended.xml
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.SqlClrProvider.pdb
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.SqlEnum.pdb
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.SqlEnum.xml
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.pdb
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.xml
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.WmiEnum.pdb
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.WmiEnum.xml
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\System.Security.Permissions.xml
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Araclar.resources
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AracTartım.resources
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Ayarlar.resources
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CariUnvanFirma.resources
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GenelAyarlar.resources
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Lisans.resources
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Malzemeler.resources
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MesajKutusu.resources
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Raporlama.resources
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SevkYeriForm.resources
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Soforler.resources
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Tanimlamalar.resources
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Veritabanı.resources
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.YeniKullanici.resources
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Yetki.resources
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\obj\Debug\Elektronet Kantar.csproj.GenerateResource.cache
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\obj\Debug\Elektronet Kantar.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\obj\Debug\Elektronet Kantar.csproj.CopyComplete
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\obj\Debug\Elektronet Kantar.csprojAssemblyReference.cache
+C:\Users\Ahmet\source\repos\ElektronetKantar\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TartimGuncelle.resources
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\ESC-POS-USB-NET.dll
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\FontAwesome.Sharp.dll
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.dll
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.Identity.Client.dll
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Assessment.dll
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Assessment.Types.dll
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Dmf.dll
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.Assessment.dll
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.Collector.dll
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.dll
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.HadrData.dll
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.HadrModel.dll
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.dll
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.SmoMetadataProvider.dll
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.SqlParser.dll
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.dll
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.XEvent.dll
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.dll
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.dll
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.PolicyEnum.dll
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Smo.Notebook.dll
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.dll
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.WmiEnum.dll
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\System.Data.SqlClient.dll
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\System.Drawing.Common.dll
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.dll
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\System.Security.Permissions.dll
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.dll
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.Data.SqlClient.pdb
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.pdb
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.xml
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.Identity.Client.xml
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.ConnectionInfo.pdb
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.ConnectionInfo.xml
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Dmf.pdb
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Dmf.xml
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Dmf.Common.pdb
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Dmf.Common.xml
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.Assessment.pdb
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.Assessment.xml
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.Collector.pdb
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.Collector.xml
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.pdb
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.xml
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.HadrData.pdb
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.HadrData.xml
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.HadrModel.pdb
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.HadrModel.xml
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.pdb
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.xml
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.pdb
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.xml
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.SmoMetadataProvider.pdb
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.SmoMetadataProvider.xml
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.SqlParser.pdb
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.SqlParser.xml
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.pdb
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.xml
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.XEvent.pdb
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.XEvent.xml
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.pdb
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.xml
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.pdb
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.xml
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.pdb
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.xml
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.PolicyEnum.xml
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.RegSvrEnum.pdb
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.RegSvrEnum.xml
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.pdb
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.xml
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Smo.pdb
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Smo.xml
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Smo.Notebook.pdb
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Smo.Notebook.xml
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.SmoExtended.pdb
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.SmoExtended.xml
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.SqlClrProvider.pdb
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.SqlEnum.pdb
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.SqlEnum.xml
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.pdb
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.xml
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.WmiEnum.pdb
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.WmiEnum.xml
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\System.Data.SqlClient.xml
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.xml
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\System.Security.Permissions.xml
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.xml
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Araclar.resources
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AracTartım.resources
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Ayarlar.resources
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CariUnvanFirma.resources
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GenelAyarlar.resources
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Lisans.resources
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Malzemeler.resources
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MesajKutusu.resources
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Raporlama.resources
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SevkYeriForm.resources
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Soforler.resources
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Tanimlamalar.resources
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TartimGuncelle.resources
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Veritabanı.resources
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.YeniKullanici.resources
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Yetki.resources
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\obj\Debug\Elektronet Kantar.csproj.GenerateResource.cache
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\obj\Debug\Elektronet Kantar.csproj.CoreCompileInputs.cache
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\obj\Debug\Elektronet Kantar.csproj.CopyComplete
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\obj\Debug\Elektronet Kantar.csprojAssemblyReference.cache
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DatabaseSec.resources
+D:\Elektronet Çalışma\ElektronetKantar\WindowsFormsApp1\obj\Debug\Elektronet Kantar.sourcelink.json
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\ESC-POS-USB-NET.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Assessment.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Assessment.Types.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Dmf.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.Assessment.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.Collector.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.HadrData.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.HadrModel.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.SmoMetadataProvider.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.SqlParser.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.XEvent.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.PolicyEnum.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Smo.Notebook.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.WmiEnum.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\System.Data.SqlClient.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\System.Drawing.Common.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\System.Security.Permissions.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.pdb
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.xml
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.ConnectionInfo.pdb
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.ConnectionInfo.xml
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Dmf.pdb
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Dmf.xml
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Dmf.Common.pdb
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Dmf.Common.xml
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.Assessment.pdb
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.Assessment.xml
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.Collector.pdb
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.Collector.xml
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.pdb
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.xml
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.HadrData.pdb
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.HadrData.xml
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.HadrModel.pdb
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.HadrModel.xml
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.pdb
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.xml
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.pdb
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.xml
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.SmoMetadataProvider.pdb
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.SmoMetadataProvider.xml
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.SqlParser.pdb
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.SqlParser.xml
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.pdb
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.xml
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.XEvent.pdb
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.XEvent.xml
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.pdb
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.xml
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.pdb
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.xml
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.pdb
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.xml
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.PolicyEnum.xml
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.RegSvrEnum.pdb
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.RegSvrEnum.xml
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.pdb
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.xml
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Smo.pdb
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Smo.xml
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Smo.Notebook.pdb
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Smo.Notebook.xml
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.SmoExtended.pdb
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.SmoExtended.xml
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.SqlClrProvider.pdb
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.SqlEnum.pdb
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.SqlEnum.xml
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.pdb
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.xml
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.WmiEnum.pdb
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.WmiEnum.xml
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\System.Data.SqlClient.xml
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.xml
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\System.Security.Permissions.xml
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\obj\Debug\Elektronet Kantar.csprojAssemblyReference.cache
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Araclar.resources
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AracTartım.resources
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Ayarlar.resources
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CariUnvanFirma.resources
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DatabaseSec.resources
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GenelAyarlar.resources
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Lisans.resources
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Malzemeler.resources
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MesajKutusu.resources
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Raporlama.resources
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SevkYeriForm.resources
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Soforler.resources
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Tanimlamalar.resources
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TartimGuncelle.resources
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Veritabanı.resources
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.YeniKullanici.resources
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Yetki.resources
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\obj\Debug\Elektronet Kantar.csproj.GenerateResource.cache
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\obj\Debug\Elektronet Kantar.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\obj\Debug\Elektronet Kantar.sourcelink.json
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\obj\Debug\Elektronet Kantar.csproj.CopyComplete
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\Kantar-Yazilim\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

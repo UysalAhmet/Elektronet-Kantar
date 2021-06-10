@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="8131494e126b48e9865fce182c066716" Name="Diagram1">
+        <EntityTypeShape EntityType="KantarDbModel.Arac" Width="1.5" PointX="0.75" PointY="7.125" />
+        <EntityTypeShape EntityType="KantarDbModel.CariUnvan_Firma" Width="1.5" PointX="0.75" PointY="1.375" />
+        <EntityTypeShape EntityType="KantarDbModel.Malzeme" Width="1.5" PointX="0.75" PointY="10.375" />
+        <EntityTypeShape EntityType="KantarDbModel.SevkYeri" Width="1.5" PointX="0.75" PointY="13.375" />
+        <EntityTypeShape EntityType="KantarDbModel.Sofor" Width="1.5" PointX="0.75" PointY="16.125" />
+        <EntityTypeShape EntityType="KantarDbModel.Tartim" Width="1.5" PointX="3" PointY="1.125" />
+        <EntityTypeShape EntityType="KantarDbModel.Yetkili" Width="1.5" PointX="0.75" PointY="19.375" />
+        <AssociationConnector Association="KantarDbModel.FK_Tartim_Arac" />
+        <AssociationConnector Association="KantarDbModel.FK_Tartim_CariUnvan_Firma" />
+        <AssociationConnector Association="KantarDbModel.FK_Tartim_CariUnvan_Firma1" />
+        <AssociationConnector Association="KantarDbModel.FK_Tartim_CariUnvan_Firma3" />
+        <AssociationConnector Association="KantarDbModel.FK_Tartim_Malzeme" />
+        <AssociationConnector Association="KantarDbModel.FK_Tartim_SevkYeri" />
+        <AssociationConnector Association="KantarDbModel.FK_Tartim_Sofor" />
+        <AssociationConnector Association="KantarDbModel.FK_Tartim_Yetkili" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

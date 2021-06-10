@@ -1,0 +1,220 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="KantarDbModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Arac">
+    <Key>
+      <PropertyRef Name="AracId" />
+    </Key>
+    <Property Name="AracId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="AracPlaka" Type="varchar" MaxLength="50" />
+    <Property Name="AracDaraAgirlik" Type="float" />
+    <Property Name="AracTip" Type="bit" />
+    <Property Name="AracMarkaModel" Type="nvarchar(max)" />
+    <Property Name="Arsiv" Type="bit" />
+  </EntityType>
+  <EntityType Name="CariUnvan_Firma">
+    <Key>
+      <PropertyRef Name="CariUnvan_FirmaId" />
+    </Key>
+    <Property Name="CariUnvan_FirmaId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CariUnvan_FirmaAd" Type="varchar" MaxLength="255" />
+    <Property Name="CariUnvan_FirmaTelefon" Type="nvarchar" MaxLength="50" />
+    <Property Name="CariUnvan_FirmaAdres" Type="nvarchar(max)" />
+    <Property Name="CariUnvan_FirmaEmail" Type="nvarchar(max)" />
+    <Property Name="CariUnvan_FirmaVergiDairesi" Type="nvarchar(max)" />
+    <Property Name="CariUnvan_FirmaVergiNo" Type="varchar" MaxLength="100" />
+    <Property Name="CariUnvan_FirmaMarsisNo" Type="nvarchar(max)" />
+    <Property Name="CariUnvan_SahisAdSoyad" Type="nvarchar(max)" />
+    <Property Name="CariUnvan_FirmaTC" Type="nvarchar" MaxLength="11" />
+    <Property Name="CariUnvan_FirmaGonderici" Type="bit" />
+    <Property Name="CariUnvan_FirmaTip" Type="int" />
+    <Property Name="Arsiv" Type="bit" />
+  </EntityType>
+  <EntityType Name="Malzeme">
+    <Key>
+      <PropertyRef Name="MalzemeId" />
+    </Key>
+    <Property Name="MalzemeId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="MalzemeAd" Type="nvarchar(max)" />
+    <Property Name="MalzemeAciklama" Type="nvarchar(max)" />
+    <Property Name="MalzemeBirimFiyat" Type="float" />
+    <Property Name="Arsiv" Type="bit" />
+  </EntityType>
+  <EntityType Name="SevkYeri">
+    <Key>
+      <PropertyRef Name="SevkYeriId" />
+    </Key>
+    <Property Name="SevkYeriId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="SevkYeriAdres" Type="nvarchar(max)" />
+    <Property Name="SevkYeriAciklama" Type="nvarchar(max)" />
+    <Property Name="Arsiv" Type="bit" />
+  </EntityType>
+  <EntityType Name="Sofor">
+    <Key>
+      <PropertyRef Name="SoforId" />
+    </Key>
+    <Property Name="SoforId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="SoforAdSoyad" Type="nvarchar(max)" />
+    <Property Name="SoforTC" Type="nvarchar(max)" />
+    <Property Name="SoforTelefon" Type="nvarchar(max)" />
+    <Property Name="Arsiv" Type="bit" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="Tartim">
+    <Key>
+      <PropertyRef Name="TartimId" />
+    </Key>
+    <Property Name="TartimId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="AracId" Type="int" />
+    <Property Name="IslemSirasi" Type="int" />
+    <Property Name="OlcumTarihi" Type="datetime" />
+    <Property Name="CariUnvan_FirmaAliciId" Type="int" />
+    <Property Name="MalzemeId" Type="int" />
+    <Property Name="SevkYeriId" Type="int" />
+    <Property Name="SoforId" Type="int" />
+    <Property Name="NetAgirlik" Type="float" />
+    <Property Name="Ucret" Type="float" />
+    <Property Name="CariUnvan_FirmaGondericiId" Type="int" />
+    <Property Name="YetkiliId" Type="int" />
+  </EntityType>
+  <EntityType Name="Yetkili">
+    <Key>
+      <PropertyRef Name="YetkiliId" />
+    </Key>
+    <Property Name="YetkiliId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="YetkiliKullaniciAd" Type="nvarchar(max)" />
+    <Property Name="YetkiliSifre" Type="nvarchar(max)" />
+    <Property Name="Admin" Type="bit" />
+    <Property Name="Arsiv" Type="bit" />
+  </EntityType>
+  <Association Name="FK_Tartim_Arac">
+    <End Role="Arac" Type="Self.Arac" Multiplicity="0..1" />
+    <End Role="Tartim" Type="Self.Tartim" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Arac">
+        <PropertyRef Name="AracId" />
+      </Principal>
+      <Dependent Role="Tartim">
+        <PropertyRef Name="AracId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Tartim_CariUnvan_Firma">
+    <End Role="CariUnvan_Firma" Type="Self.CariUnvan_Firma" Multiplicity="0..1" />
+    <End Role="Tartim" Type="Self.Tartim" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CariUnvan_Firma">
+        <PropertyRef Name="CariUnvan_FirmaId" />
+      </Principal>
+      <Dependent Role="Tartim">
+        <PropertyRef Name="CariUnvan_FirmaAliciId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Tartim_CariUnvan_Firma3">
+    <End Role="CariUnvan_Firma" Type="Self.CariUnvan_Firma" Multiplicity="0..1" />
+    <End Role="Tartim" Type="Self.Tartim" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CariUnvan_Firma">
+        <PropertyRef Name="CariUnvan_FirmaId" />
+      </Principal>
+      <Dependent Role="Tartim">
+        <PropertyRef Name="CariUnvan_FirmaGondericiId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Tartim_Malzeme">
+    <End Role="Malzeme" Type="Self.Malzeme" Multiplicity="0..1" />
+    <End Role="Tartim" Type="Self.Tartim" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Malzeme">
+        <PropertyRef Name="MalzemeId" />
+      </Principal>
+      <Dependent Role="Tartim">
+        <PropertyRef Name="MalzemeId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Tartim_SevkYeri">
+    <End Role="SevkYeri" Type="Self.SevkYeri" Multiplicity="0..1" />
+    <End Role="Tartim" Type="Self.Tartim" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SevkYeri">
+        <PropertyRef Name="SevkYeriId" />
+      </Principal>
+      <Dependent Role="Tartim">
+        <PropertyRef Name="SevkYeriId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Tartim_Sofor">
+    <End Role="Sofor" Type="Self.Sofor" Multiplicity="0..1" />
+    <End Role="Tartim" Type="Self.Tartim" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Sofor">
+        <PropertyRef Name="SoforId" />
+      </Principal>
+      <Dependent Role="Tartim">
+        <PropertyRef Name="SoforId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Tartim_Yetkili">
+    <End Role="Yetkili" Type="Self.Yetkili" Multiplicity="0..1" />
+    <End Role="Tartim" Type="Self.Tartim" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Yetkili">
+        <PropertyRef Name="YetkiliId" />
+      </Principal>
+      <Dependent Role="Tartim">
+        <PropertyRef Name="YetkiliId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="KantarDbModelStoreContainer">
+    <EntitySet Name="Arac" EntityType="Self.Arac" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="CariUnvan_Firma" EntityType="Self.CariUnvan_Firma" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Malzeme" EntityType="Self.Malzeme" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="SevkYeri" EntityType="Self.SevkYeri" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Sofor" EntityType="Self.Sofor" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Tartim" EntityType="Self.Tartim" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Yetkili" EntityType="Self.Yetkili" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Tartim_Arac" Association="Self.FK_Tartim_Arac">
+      <End Role="Arac" EntitySet="Arac" />
+      <End Role="Tartim" EntitySet="Tartim" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Tartim_CariUnvan_Firma" Association="Self.FK_Tartim_CariUnvan_Firma">
+      <End Role="CariUnvan_Firma" EntitySet="CariUnvan_Firma" />
+      <End Role="Tartim" EntitySet="Tartim" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Tartim_CariUnvan_Firma3" Association="Self.FK_Tartim_CariUnvan_Firma3">
+      <End Role="CariUnvan_Firma" EntitySet="CariUnvan_Firma" />
+      <End Role="Tartim" EntitySet="Tartim" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Tartim_Malzeme" Association="Self.FK_Tartim_Malzeme">
+      <End Role="Malzeme" EntitySet="Malzeme" />
+      <End Role="Tartim" EntitySet="Tartim" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Tartim_SevkYeri" Association="Self.FK_Tartim_SevkYeri">
+      <End Role="SevkYeri" EntitySet="SevkYeri" />
+      <End Role="Tartim" EntitySet="Tartim" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Tartim_Sofor" Association="Self.FK_Tartim_Sofor">
+      <End Role="Sofor" EntitySet="Sofor" />
+      <End Role="Tartim" EntitySet="Tartim" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Tartim_Yetkili" Association="Self.FK_Tartim_Yetkili">
+      <End Role="Yetkili" EntitySet="Yetkili" />
+      <End Role="Tartim" EntitySet="Tartim" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
